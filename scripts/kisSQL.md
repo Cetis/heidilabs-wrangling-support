@@ -1,5 +1,6 @@
 
-SQL for KIS
+##SQL for KIS. Click View as Raw
+
 DROP TABLE IF EXISTS flattened_nss;
 
 create table flattened_nss as
