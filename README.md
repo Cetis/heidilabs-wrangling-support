@@ -16,7 +16,7 @@ If the need arises, particular versions will get their own branches, but until t
 
 ## Scripts or SQL
 
-- [SQL for KIS (Scott Wilson](scripts/krisSQL.MD)
+- [SQL for KIS (Scott Wilson)](scripts/kisSQL.MD)
 - [Guardian League Table Python merger]()
 
 ## Further Resources
