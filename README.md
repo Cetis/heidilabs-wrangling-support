@@ -16,10 +16,10 @@ If the need arises, particular versions will get their own branches, but until t
 
 ## Scripts or SQL
 
-[SQL for KIS (Scott Wilson]()
-[Guardian League Table Python merger]()
+- [SQL for KIS (Scott Wilson](scripts/krisSQL.MD)
+- [Guardian League Table Python merger]()
 
 ## Further Resources
 
-Alteryx quickstart guide (Kris Popat)
-[Data Catalogue V1 (David Sherlock, Adam Cooper, Kris Popat, Scott Wilson)]
+- Alteryx quickstart guide (Kris Popat)
+- [Data Catalogue V1 (David Sherlock, Adam Cooper, Kris Popat, Scott Wilson)]
