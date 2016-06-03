@@ -17,9 +17,10 @@ If the need arises, particular versions will get their own branches, but until t
 ## Scripts or SQL
 
 - [SQL for KIS (Scott Wilson)](scripts/kisSQL.md)
-- [Guardian League Table Python merger]()
+- [Guardian League Table Python merger (David Sherlock)](scripts/xlstocsv.py)
 
 ## Further Resources
 
-- Alteryx quickstart guide (Kris Popat)
-- [Data Catalogue V1 (David Sherlock, Adam Cooper, Kris Popat, Scott Wilson)]
+- [Pentaho Kettle quickstart guide (Kris Popat)](https://docs.google.com/document/d/1RS7AQ7yEguDp0Xo5f9rBc9QGyz4-VLdNbK1WBRsjewg)
+- [Data Catalogue V1 (David Sherlock, Adam Cooper, Kris Popat, Scott Wilson)](https://docs.google.com/document/d/1DQFRA6m7NgJg64RlvQQ_M_6Rvl_0ZE54RDnd3p-bvuQ)
+- [Data Catalogue V2 (David Sherlock, Adam Cooper, Kris Popat, Scott Wilson)](http://heidi-ckan.dev.jisc-betas.net/)
