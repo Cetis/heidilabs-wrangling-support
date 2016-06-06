@@ -17,8 +17,9 @@ If the need arises, particular versions will get their own branches, but until t
 ## Scripts or SQL
 
 - [SQL for KIS](scripts/kisSQL.md)
-- [Guardian League Table Python merger](scripts/xlstocsv.py)
+- [Guardian League Table Python xlsv (from google doc) to csv](scripts/xlstocsv.py)
 - [Unistats SQL](scripts/unistats)
+
 ## Further Resources
 
 - [Pentaho Kettle quickstart guide](https://docs.google.com/document/d/1RS7AQ7yEguDp0Xo5f9rBc9QGyz4-VLdNbK1WBRsjewg)
