@@ -1,0 +1,5 @@
+# Unistats SQL script
+
+This SQL script works on a version of the UNISTATS dataset that has been imported into a PostgreSQL database (e.g. using ORDS). 
+
+The script flattens the relational data into a single table where each row is a single course.
